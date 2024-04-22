@@ -5,3 +5,4 @@ lightning-utilities
 protobuf
 torchvision
 einops
+chardet
