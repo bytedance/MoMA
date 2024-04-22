@@ -57,10 +57,12 @@ MoMA:
 
 ## How to Use
 
-### SD_1.5 (Realistic_Vision_V4.0)
+### Jupyter-notebook
++ [**run_MoMA_notebook.ipynb**](run_MoMA_notebook.ipynb)
 
-+ If you prefer Jupyter-notebook: [**run_MoMA_notebook.ipynb**](run_MoMA_notebook.ipynb)
-+ If you prefer Python code: [**run_evaluate_MoMA.py**](run_evaluate_MoMA.py)
+
+### Python code
++ [**run_evaluate_MoMA.py**](run_evaluate_MoMA.py)
 
 run:
 
