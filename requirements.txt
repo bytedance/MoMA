@@ -6,3 +6,6 @@ protobuf
 torchvision
 einops
 chardet
+Triton
+peft
+notebook
