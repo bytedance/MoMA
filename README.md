@@ -4,7 +4,6 @@
 <a href='https://arxiv.org/abs/2404.05674'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
 <a href='https://huggingface.co/KunpengSong/MoMA_llava_7b/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 
-
 ---
 
 
@@ -26,6 +25,7 @@ Please install from its [official repository](https://github.com/haotian-liu/LLa
 2. Download our MoMA repository
 
 ```
+cd ..
 git clone https://github.com/bytedance/MoMA.git
 cd MoMA
 pip install -r requirements.txt
