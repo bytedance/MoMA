@@ -33,8 +33,8 @@ moMA_main_modal = MoMA_main_modal(args).to(args.device, dtype=torch.bfloat16)
 
 
 # reference image and its mask
-rgb_path = "/common/users/ks1418/paper_experiments_users/intern_bytedance/temp/MoMA/example_images/newImages/3.jpg"
-mask_path = "/common/users/ks1418/paper_experiments_users/intern_bytedance/temp/MoMA/example_images/newImages/3_mask.jpg"
+rgb_path = "example_images/newImages/3.jpg"
+mask_path = "example_images/newImages/3_mask.jpg"
 subject = 'car'
 
 
@@ -49,7 +49,6 @@ save_image(generated_image,f"{args.output_path}/{subject}_{prompt}.jpg")
 prompt = "A wooden sculpture of a car on the table."
 generated_image = moMA_main_modal.generate_images(rgb_path, mask_path, subject, prompt, strength=0.4, seed=4, return_mask=True)  # set strength to 0.4 for better prompt fidelity
 save_image(generated_image,f"{args.output_path}/{subject}_{prompt}.jpg")
-
 
 
 
