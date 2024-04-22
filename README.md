@@ -59,9 +59,17 @@ MoMA:
 
 ### SD_1.5 (Realistic_Vision_V4.0)
 
-- If you prefer Jupyter-notebook: [**run_MoMA_notebook.ipynb**](run_MoMA_notebook.ipynb)
-- If you prefer Python code: [**run_evaluate_MoMA.py**](run_evaluate_MoMA.py)
++ If you prefer Jupyter-notebook: [**run_MoMA_notebook.ipynb**](run_MoMA_notebook.ipynb)
++ If you prefer Python code: [**run_evaluate_MoMA.py**](run_evaluate_MoMA.py)
 
+run:
+
+```CUDA_VISIBLE_DEVICES=0 python run_evaluate_MoMA.py```
+
+(generated images will be saved in the output folder)
+
+
+## Example Results
 New context:
 ![change context](assets/context.png)
 New texture:
