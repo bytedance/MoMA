@@ -3,3 +3,5 @@ pytorch_lightning
 huggingface-hub
 lightning-utilities
 protobuf
+torchvision
+einops
