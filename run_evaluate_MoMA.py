@@ -33,8 +33,8 @@ moMA_main_modal = MoMA_main_modal(args).to(args.device, dtype=torch.bfloat16)
 
 
 # reference image and its mask
-rgb_path = "example_images/newImages/3.jpg"
-mask_path = "example_images/newImages/3_mask.jpg"
+rgb_path = "/common/users/ks1418/paper_experiments_users/intern_bytedance/temp/MoMA/example_images/newImages/3.jpg"
+mask_path = "/common/users/ks1418/paper_experiments_users/intern_bytedance/temp/MoMA/example_images/newImages/3_mask.jpg"
 subject = 'car'
 
 

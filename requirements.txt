@@ -1,5 +1,9 @@
-diffusers==0.26.3
+diffusers
 pytorch_lightning
-huggingface-hub
-lightning-utilities
+
+einops
 protobuf
+chardet
+Triton
+peft
+notebook
