@@ -13,8 +13,6 @@ seed_everything(0)
 args = parse_args()
 
 args.device = torch.device("cuda", 0)
-args.model_path = "KunpengSong/MoMA_llava_7b"
-
 
 
 # if you have 22 Gb GPU memory:
