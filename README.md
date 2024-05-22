@@ -3,7 +3,7 @@
 <a href='https://moma-adapter.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/abs/2404.05674'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
 <a href='https://huggingface.co/KunpengSong/MoMA_llava_7b/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
-
+<a href='https://huggingface.co/spaces/yizhezhu/MoMA_demo'><img src='https://img.shields.io/badge/Online-Demo-orange'></a> 
 ---
 
 
@@ -15,7 +15,8 @@ we present MoMA: an open-vocabulary, training-free personalized image model that
 
 ## Release
 - [2024/04/20] 🔥 We release the model code on GitHub.
-- [2024/04/22] 🔥 We add HuggingFace repository and release the checkpoints.
+- [2024/04/22] 🔥 We add a HuggingFace repository and release the checkpoints.
+- [2024/05/21] 🔥 We launch an [Online Demo](https://huggingface.co/spaces/yizhezhu/MoMA_demo) on HuggingFace Space ！！！
 
 
 ## Installation
