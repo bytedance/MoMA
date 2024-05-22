@@ -16,7 +16,7 @@ we present MoMA: an open-vocabulary, training-free personalized image model that
 ## Release
 - [2024/04/20] 🔥 We release the model code on GitHub.
 - [2024/04/22] 🔥 We add a HuggingFace repository and release the checkpoints.
-- [2024/05/21] 🔥 We launch an [Online Demo](https://huggingface.co/spaces/yizhezhu/MoMA_demo) on HuggingFace Space ！！！
+- [2024/05/21] 🔥 We launch an [Online Demo](https://huggingface.co/spaces/yizhezhu/MoMA_demo) on HuggingFace Space! You don't need to provide masks. Our demo takes care of it!
 
 
 ## Installation
