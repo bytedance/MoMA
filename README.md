@@ -1,4 +1,5 @@
-# ___*** [ECCV 2024] MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation***___
+# ___***MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation***___
+### ECCV 2024 Accepted
 
 <a href='https://moma-adapter.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a> 
 <a href='https://arxiv.org/abs/2404.05674'><img src='https://img.shields.io/badge/Technique-Report-red'></a> 
